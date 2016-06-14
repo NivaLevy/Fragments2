@@ -19,7 +19,7 @@ public class SecondFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-    
+
         contents[0]="Apples";
         contents[1]="Bananas";
         contents[2]="Strawberries";
